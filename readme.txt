@@ -1,0 +1,1 @@
+This is a simple KBC-type code that I made using python while learning it. It is just a simple quiz game with few questions.
